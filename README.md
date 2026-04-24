@@ -1,2 +1,7 @@
-# demo-centro-odontologico-san-pablo
-Demo web para CENTRO ODONTOLÓGICO San Pablo' — diseñada por eterlab.
+# CENTRO ODONTOLÓGICO San Pablo'
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
